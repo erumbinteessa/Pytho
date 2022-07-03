@@ -1,1 +1,2 @@
-# Pytho
+# Python
+print=(python)
